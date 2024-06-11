@@ -1,0 +1,67 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "student_name": "Gia Thiều",
+      "email": "nva@gmail.com",
+      "address": "cổng",
+      "phone": "0355483082",
+      "status": true,
+      "created_at": "11/02/2005"
+    },
+    {
+      "id": 2,
+      "student_name": "B",
+      "email": "nvb@gmail.com",
+      "address": "Nhà",
+      "phone": "0355483082",
+      "status": true,
+      "created_at": "11/02/2005"
+    },
+    {
+      "id": 3,
+      "student_name": "C",
+      "email": "nvc@gmail.com",
+      "address": "Nhà",
+      "phone": "0355483082",
+      "status": true,
+      "created_at": "11/02/2005"
+    },
+    {
+      "id": 4,
+      "student_name": "D",
+      "email": "nvd@gmail.com",
+      "address": "Nhà",
+      "phone": "0355483082",
+      "status": true,
+      "created_at": "11/02/2005"
+    },
+    {
+      "id": 5,
+      "student_name": "E",
+      "email": "nve@gmail.com",
+      "address": "Nhà",
+      "phone": "0355483082",
+      "status": true,
+      "created_at": "11/02/2005"
+    },
+    {
+      "student_name": "F",
+      "email": "nvF@gmail.com",
+      "address": "Nhà",
+      "phone": "0355483082",
+      "status": true,
+      "created_at": "11/02/2005",
+      "id": 6
+    },
+    {
+      "student_name": "F",
+      "email": "nvF@gmail.com",
+      "address": "Nhà",
+      "phone": "0355483082",
+      "status": true,
+      "created_at": "11/02/2005",
+      "id": 7
+    }
+  ]
+}
